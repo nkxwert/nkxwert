@@ -107,8 +107,6 @@
 
 <div align="center">
 
-📫 **Contact** · your.email@example.com
-
-<i>"필요한 건 직접 만든다."</i>
+📫 **Contact** · nk123@proton.me
 
 </div>
